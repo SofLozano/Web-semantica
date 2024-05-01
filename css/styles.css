@@ -1,0 +1,29 @@
+* {
+box-sizing: border-box;
+}
+body{
+    background-color: #F2DAAC !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color:#400601 ;
+    color: bisque;
+}
+
+h1 {
+    font-size: 100px !important;
+}
+
+a{
+    background-color: #BF978E ;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(215, 142, 41) !important;
+    text-decoration: none !important;
+}
+
+footer {
+    background-color:#BF978E ;
+    color: bisque !important;
+    
+}
